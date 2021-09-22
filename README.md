@@ -6,7 +6,7 @@
 
 Here is a little about me:
 
-- 🌱 I’m currently studying on Sinatra and getting my React down.
+- 🌱 I’m currently studying on C#/ASP.NET/Unity and getting my React down.
 - 💬 Ask me about Doom, Horrorcore rap, RPG games.
 - 📫 How to reach me: matthew-martin@lambdastudents.com
 - 😄 Pronouns: He/Him 
