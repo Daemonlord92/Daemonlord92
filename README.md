@@ -6,7 +6,7 @@
 
 Here is a little about me:
 
-- 🌱 I’m currently studying on C#/ASP.NET/Unity and getting my React down.
-- 💬 Ask me about Doom, Horrorcore rap, RPG games.
+- 🌱 I’m currently practicing on Entity Framework Core/ SQL Server/ Angular.
+- 💬 Ask me about Doom, RPG games.
 - 📫 How to reach me: matthew-martin@programmer.net
 - 😄 Pronouns: He/Him 
