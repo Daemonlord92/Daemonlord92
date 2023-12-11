@@ -6,7 +6,7 @@
 
 Here is a little about me:
 
-- 🌱 I’m currently practicing on Entity Framework Core/ SQL Server/ Angular.
-- 💬 Ask me about Doom, RPG games.
+- 🌱 I’m currently practicing on Java/ Spring-Boot/ React TypeScript.
+- 💬 Ask me about Doom, Starfield, RPG Games.
 - 📫 How to reach me: matthew-martin@programmer.net
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him/His
